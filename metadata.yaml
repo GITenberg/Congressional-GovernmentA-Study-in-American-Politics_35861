@@ -1,0 +1,34 @@
+_repo: Congressional-GovernmentA-Study-in-American-Politics_35861
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 35861-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wilson, Woodrow
+    aliases:
+    - United States President (1913-1921)
+    - Wilson, T. W. (Thomas Woodrow)
+    - Wilson, Thomas Woodrow
+    birthdate: 1856
+    deathdate: 1924
+    gutenberg_agent_id: '1689'
+    url: http://www.gutenberg.org/2009/agents/1689
+    wikipedia: http://en.wikipedia.org/wiki/Woodrow_Wilson
+description: ''
+gutenberg_issued: '2011-04-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35861'
+  lccn: 06014841
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government'
+- !lcsh 'Executive power -- United States'
+- !lcsh 'United States. Congress'
+- !lcc 'JK'
+title: 'Congressional Government: A Study in American Politics'
+url: http://www.gutenberg.org/ebooks/35861
